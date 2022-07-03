@@ -13,7 +13,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/HenriqueVazquez/FastFeet-Mobile?color=blueviolet">
   
-  <a href="https://www.linkedin.com/in/henrique-vazquez-11905ab6" target="_blank">
+  <a href="https://www.linkedin.com/in/henrique-vazquez-11905ab6" >
     <img alt="Made by Henrique Vazquez" src="https://img.shields.io/badge/made%20by-Henrique%20Vazquez-blueviolet">
   </a>
 
@@ -65,6 +65,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 https://xd.adobe.com/view/a5d56d7d-c1d4-48a8-70ce-8b77f5f417a5-d3e4/screen/64cdf951-912a-4b0f-844d-893b40a8dfad/
 
 <p align="center">
-Feito por <a href="https://www.linkedin.com/in/henrique-vazquez-11905ab6" target="_blank" target="_blank"> Henrique Vazquez</a> :wink:
+Feito por <a href="https://www.linkedin.com/in/henrique-vazquez-11905ab6" > Henrique Vazquez</a> :wink:
   </p>
 
