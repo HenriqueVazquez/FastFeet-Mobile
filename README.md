@@ -13,7 +13,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/HenriqueVazquez/FastFeet-Mobile?color=blueviolet">
   
-  <a target="_blank" href="https://www.linkedin.com/in/henrique-vazquez-11905ab6">
+  <a target="blank" href="https://www.linkedin.com/in/henrique-vazquez-11905ab6">
     <img alt="Made by Henrique Vazquez" src="https://img.shields.io/badge/made%20by-Henrique%20Vazquez-blueviolet">
   </a>
 
