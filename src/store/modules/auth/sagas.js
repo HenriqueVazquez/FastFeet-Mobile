@@ -23,6 +23,7 @@ export function* signIn({ payload }) {
       }),
     );
   } catch (err) {
+    console.tron.log(err.response.data);
     const erroLogin = err.response.data ? err.response.data : '';
     Alert.alert('Falha na autenticação', 'verifique seus dados!');
     yield put(signInFailure({ erroLogin }));
