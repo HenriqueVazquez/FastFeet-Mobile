@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FastFeet</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">WTKcGuFV4bpeX7rZOv24rQKg6P_CexcVziJ1J</string>
 </resources>
